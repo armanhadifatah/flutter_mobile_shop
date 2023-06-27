@@ -48,6 +48,8 @@ To setup Firebase:
 3. Enable phone authentication in your Firebase project by navigating to `Develop -> Authentication -> Sign-in Method -> Phone`.
 4. Download your Firebase configuration files, `GoogleService-Info.plist` for iOS and `google-services.json` for Android, and place them in the respective directories.
 
+\*Note please do not forget to add your SH1 key to firebase.
+
 ## Hive Setup
 
 Hive is a lightweight and blazingly fast key-value database written in pure Dart. No additional setup is required for Hive.
